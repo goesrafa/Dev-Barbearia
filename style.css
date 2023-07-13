@@ -206,6 +206,9 @@ i {
   justify-content: center;
   padding: 54px 14px;
 }
+.services h2 {
+  color: white;
+}
 
 .services-content h2 {
   text-transform: uppercase;
@@ -326,7 +329,7 @@ i {
 
 @media screen and (max-width: 768px) {
   .btn-wpp img {
-    max-width: 52px;
+    max-width: 64px;
   }
 }
 body {

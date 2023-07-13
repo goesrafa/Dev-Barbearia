@@ -147,6 +147,10 @@
     align-items: center;
     justify-content: center;
     padding: 54px 14px;
+
+    h2{
+        color: $white-normal;
+    }
 }
 
 .services-content h2{
@@ -281,7 +285,7 @@
 @media screen and (max-width: 768px) {
     .btn-wpp{
         img{
-            max-width: 52px;
+            max-width: 64px;
         }
     }    
 }
